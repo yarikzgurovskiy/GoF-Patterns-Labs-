@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab3_Patterns_.Gift" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAIAAAAAAAEAAAAAAAAAAAEAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Gift.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab3_Patterns_.GiftManager" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAEAAAAAAAAAAAABAhAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GiftManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3_Patterns_.GiftPack" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAEAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GiftPack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3_Patterns_.Program" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3_Patterns_.Santa" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAQAAAAAAAAAAQAAAABAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Santa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3_Patterns_.Sweet" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sweet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3_Patterns_.Toy" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Toy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

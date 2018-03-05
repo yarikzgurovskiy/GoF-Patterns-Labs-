@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Lab3._2.ChinaComputer" Collapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Computers\ChinaComputer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab3._2.JapanComputer" Collapsed="true">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Computers\JapanComputer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab3._2.DemoAbstractFactory" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>DemoAbstractFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3._2.Device" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Device.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3._2.ChinaFactory" Collapsed="true">
+    <Position X="2" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Factories\ChinaFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3._2.JapanFactory" Collapsed="true">
+    <Position X="4.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Factories\JapanFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3._2.TechnologyFactory" Collapsed="true">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAABAAAAAAAAAAAAAQAAAAEAAAAEQAAABVAAAAA=</HashCode>
+      <FileName>Factories\TechnologyFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab3._2.ChinaTelevision" Collapsed="true">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Televisions\ChinaTelevision.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab3._2.JapanTelevision" Collapsed="true">
+    <Position X="9" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Televisions\JapanTelevision.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Lab3._2.IComputer" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Interfaces\IComputer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Lab3._2.ITelevision" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Interfaces\ITelevision.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Lab3._2.CompleteSetType" Collapsed="true">
+    <Position X="11.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAgA=</HashCode>
+      <FileName>Factories\TechnologyFactory.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
