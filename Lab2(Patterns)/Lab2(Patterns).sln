@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2.1", "Lab2(Patterns)\Lab2.1.csproj", "{78DB1159-5224-4D4E-8F40-B0282343CAAC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2.1", "Lab2.1\Lab2.1.csproj", "{78DB1159-5224-4D4E-8F40-B0282343CAAC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2.2", "Lab2.2\Lab2.2.csproj", "{A42A4E8C-9FBF-492A-BD5E-881EF650BB21}"
 EndProject
