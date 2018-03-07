@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab5._1.DemoChainOfResponsibility" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>DemoChainOfResponsibility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5._1.Vendor" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAIAAAAAAAAACAAAAACAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Vendor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5._1.VendorWaterReservoir" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>VendorWaterReservoir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5._1.WaterReservoir" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAQAAAAEAAAAEAAAAAAAgAAAAIgA=</HashCode>
+      <FileName>WaterReservoir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
