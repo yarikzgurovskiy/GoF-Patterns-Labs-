@@ -44,7 +44,7 @@
   <ItemGroup>
     <Compile Include="Collector.cs" />
     <Compile Include="Parents.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="DemoComposite.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SchoolWorker.cs" />
   </ItemGroup>

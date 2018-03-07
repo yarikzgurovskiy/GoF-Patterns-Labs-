@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab4_Patterns_.FridayTip" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQABAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>ConcreteTips\FridayTip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4_Patterns_.MondayTip" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQABAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>ConcreteTips\MondayTip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4_Patterns_.SaturdayTip" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQABAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>ConcreteTips\SaturdayTip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4_Patterns_.SundayTip" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQABAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>ConcreteTips\SundayTip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4_Patterns_.ThursdayTip" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQABAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>ConcreteTips\ThursdayTip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4_Patterns_.TuesdayTip" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQABAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>ConcreteTips\TuesdayTip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4_Patterns_.WednesdayTip" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQABAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>ConcreteTips\WednesdayTip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4_Patterns_.DemoState" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>DemoState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4_Patterns_.Helper" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAgAAAAAAAACAAAAIAAAAAA=</HashCode>
+      <FileName>Helper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4_Patterns_.TipState" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQABAAAAAAAEAAAAAAAAIAAAAA=</HashCode>
+      <FileName>TipState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

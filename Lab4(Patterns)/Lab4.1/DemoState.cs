@@ -5,8 +5,14 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Lab4_Patterns_ {
-    class Program {
+    class DemoState {
         static void Main(string[] args) {
+            Helper h = new Helper(new WednesdayTip());
+            
+            for(int i = 0; i < 8; i++) {
+                h.ShowTips();
+                h.ChangeDay();
+            }
         }
     }
 }

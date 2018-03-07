@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Lab2_Patterns_ {
-    class Program {
+    class DemoProxy {
         static void Main(string[] args) {
             //create criminals
             Criminal c1 = new Criminal("Oleg Ivanenko", 24, CriminalType.Murder, DateTime.Now, new TimeSpan(4, 0, 0, 0));

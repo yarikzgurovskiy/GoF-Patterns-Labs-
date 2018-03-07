@@ -46,7 +46,7 @@
     <Compile Include="CaseProxy.cs" />
     <Compile Include="Criminal.cs" />
     <Compile Include="ICase.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="DemoProxy.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

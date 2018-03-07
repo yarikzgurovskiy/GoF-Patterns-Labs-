@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Lab1_Patterns_{
-    class Program {
+    class DemoDecorator {
         static void Main(string[] args) {
             IMessageText message1 = new MessageText("Hello, Petro!", "John");
             IMessageText message2 = new MessageText("Hello, John! How are you?", "Petro");

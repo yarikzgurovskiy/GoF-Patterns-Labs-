@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 
 namespace Lab2._2 {
-    class Program {
+    class DemoAdapter {
         static void Main(string[] args) {
             //create turnstile
             Turnstile turnstile = new Turnstile();

@@ -45,12 +45,13 @@
     <Compile Include="DocumentStrategies.cs" />
     <Compile Include="IDocumentStrategy.cs" />
     <Compile Include="Person.cs" />
-    <Compile Include="StrategyDemo.cs" />
+    <Compile Include="DemoStrategy.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

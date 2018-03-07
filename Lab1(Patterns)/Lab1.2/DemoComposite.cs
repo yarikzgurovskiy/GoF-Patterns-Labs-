@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Lab1._2 {
-    class Program {
+    class DemoComposite {
         static void Main(string[] args) {
             //create director
             SchoolWorker director = new SchoolWorker("Ivanchenko", SchoolWorkerType.Director);

@@ -46,7 +46,7 @@
     <Compile Include="Decorator.cs" />
     <Compile Include="IMessageText.cs" />
     <Compile Include="MessageText.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="DemoDecorator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

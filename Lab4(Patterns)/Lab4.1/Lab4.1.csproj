@@ -42,11 +42,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="DemoState.cs" />
+    <Compile Include="ConcreteTips\FridayTip.cs" />
+    <Compile Include="Helper.cs" />
+    <Compile Include="ConcreteTips\SaturdayTip.cs" />
+    <Compile Include="ConcreteTips\SundayTip.cs" />
+    <Compile Include="ConcreteTips\ThursdayTip.cs" />
+    <Compile Include="TipState.cs" />
+    <Compile Include="ConcreteTips\MondayTip.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ConcreteTips\TuesdayTip.cs" />
+    <Compile Include="ConcreteTips\WednesdayTip.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

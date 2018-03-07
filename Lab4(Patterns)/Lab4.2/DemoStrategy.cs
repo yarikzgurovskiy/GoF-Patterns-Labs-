@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Lab4._2 {
-    class StrategyDemo {
+    class DemoStrategy {
         static void Main(string[] args) {
             Person pers = new Person("Yaroslav");
 
