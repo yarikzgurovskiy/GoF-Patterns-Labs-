@@ -5,8 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Lab5._2 {
-    class Program {
-        static void Main(string[] args) {
-        }
+    public interface ICommand {
+        void Execute();
     }
 }
